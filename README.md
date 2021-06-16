@@ -4,4 +4,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PitzTech&show_icons=true&theme=synthwave" alt="PitzTech :: Profile Stats" />
 </div>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300em" width="800em"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300em" width="790em"></p>
